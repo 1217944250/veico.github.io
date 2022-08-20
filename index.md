@@ -662,7 +662,6 @@ var elem=document/已经找到的父元素.getElementByClassName("标签名")
 
 ​	设置 --就是修改/添加
 
-# Day025
 
 计算字符串：脱掉字符串的外套
 
